@@ -1,5 +1,6 @@
 def square_array(array)
   # your code here
+  new_array = [ ]
   array.length.times do |index|
-    array
+    new_array.push()
 end
